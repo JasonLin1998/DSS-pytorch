@@ -115,4 +115,4 @@ python main.py --mode='test' --test_path='you_data' --test_label='your_label' --
 Note：
 
 1. only support `bath_size=1`
-2. `--use_crf=True`：means use CRF post-process
+2. `--use_crf=True`：means use CRF post-process# DSS-pytorch
