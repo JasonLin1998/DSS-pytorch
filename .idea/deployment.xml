@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="mist@ygg.mistgpu.xyz:61600 password" createEmptyFolders="true" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="mist@ygg.mistgpu.xyz:61600">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="mist@ygg.mistgpu.xyz:61600 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/mist/dss" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/data" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
